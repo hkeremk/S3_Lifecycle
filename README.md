@@ -29,4 +29,4 @@ You can test this project with this commands on your machine.
 
 ![rules](images/rules.png)
 
-![One Zone](images/One Zone.png)
+![One Zone](images/OneZone.png)
