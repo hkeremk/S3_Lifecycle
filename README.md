@@ -22,9 +22,9 @@ You can test this project with this commands on your machine.
 <hr>
 <br>
 
-#### Project Outputs
+## Project Outputs
 
 <br>
-<br>
+
 
 ![bucket](images/bucket.png)
