@@ -1,6 +1,6 @@
 #  S3 Bucket lifecycle policy using Terraform
 
-You can test this project with this commands on your machine.
+You can test this project with this commands on your local machine.
 
 - First, Initialize Terraform by running the below command:
 ```bash
