@@ -28,3 +28,5 @@ You can test this project with this commands on your machine.
 ![bucket](images/bucket.png)
 
 ![rules](images/rules.png)
+
+![One Zone](images/One Zone.png)
