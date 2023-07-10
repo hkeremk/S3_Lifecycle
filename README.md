@@ -19,6 +19,4 @@ You can test this project with this commands on your machine.
   terraform destroy
 ```
 
-```bash
-pip install foobar
-```
+
