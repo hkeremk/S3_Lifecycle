@@ -19,4 +19,6 @@ You can test this project with this commands on your machine.
   terraform destroy
 ```
 
+<hr>
+
 ![bucket](images/bucket.png)
