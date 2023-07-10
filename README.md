@@ -30,3 +30,6 @@ You can test this project with this commands on your machine.
 ![rules](images/rules.png)
 
 ![One Zone](images/OneZone.png)
+
+![Glacier](images/Glacier.png)
+
