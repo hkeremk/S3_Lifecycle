@@ -24,7 +24,5 @@ You can test this project with this commands on your machine.
 
 ## Project Outputs
 
-<br>
-
 
 ![bucket](images/bucket.png)
