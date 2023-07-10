@@ -22,4 +22,6 @@ You can test this project with this commands on your machine.
 <hr>
 <br>
 - Project outputs
+<br>
+
 ![bucket](images/bucket.png)
